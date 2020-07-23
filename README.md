@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=galaxyzpj)](https://github.com/GalaxyZpj)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyzpj)](https://github.com/GalaxyZpj)
