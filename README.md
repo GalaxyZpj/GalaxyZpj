@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=galaxyzpj)](https://github.com/GalaxyZpj)
 
 <!--
 **GalaxyZpj/GalaxyZpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
