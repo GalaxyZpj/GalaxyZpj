@@ -1,7 +1,5 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=galaxyzpj&theme=merko&show_icons=true)](https://github.com/GalaxyZpj)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyzpj&theme=merko)](https://github.com/GalaxyZpj)
-
 <!--
 **GalaxyZpj/GalaxyZpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
